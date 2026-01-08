@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi there, I'm David 👋
+- Studying **Computer Science and Robotics @ University of Michigan**
+
+If you want to get in touch:
+- davdyc@umich.edu
+- [LinkedIn](https://www.linkedin.com/in/davidychen2523/)
 
 <!--
 **davidchen20/davidchen20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
