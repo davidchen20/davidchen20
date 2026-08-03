@@ -1,21 +1,46 @@
-## Hi there, I'm David 👋
-- Studying **Computer Science and Robotics @ University of Michigan**
+# Hi there, I'm David Chen! 👋
 
-If you want to get in touch:
-- davdyc@umich.edu
-- [LinkedIn](https://www.linkedin.com/in/davidychen2523/)
+I'm a **Computer Science & Robotics** student at the **University of Michigan – Ann Arbor** (BSE Expected May 2028). 
 
-<!--
-**davidchen20/davidchen20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently, I'm a **Simulation Software Engineering Intern** at **Quantum Signal AI** where I work on simulation tools and software infrastructure for autonomous systems.
 
-Here are some ideas to get you started:
+Outside of work, I enjoy building projects involving robotics, embedded systems, and machine learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Technical Stack & Tools
+
+* **Languages:** `C/C++`, `Python`, `Java`, `JavaScript`, `TypeScript`, `SQL`
+* **Databases & Cloud:** `MySQL`, `Supabase`, `SQLite`
+* **Robotics & Simulation:** `ROS/ROS2`, `WPILib`, `Gymnasium`, `SCANeR Studio`, `SFML`
+* **Machine Learning & Vision:** `PyTorch`, `Keras`, `OpenCV`
+* **Software Development:** `Flask`, `React`, `NextJS`, `REST APIs`, `Git`, `SVN`
+
+---
+
+### 🔨 Currently Working On
+
+* 🖼️ **Digital Photo Frame** — An ESP32-powered smart photo frame featuring custom display workflows, low-power memory management, and cloud backend synchronization over FreeRTOS.
+
+---
+
+### 🌱 Currently Exploring
+
+* **Systems & Parallel Computing:** CUDA & GPU programming, Operating Systems, High-Performance Computing, Distributed Systems
+* **Software & Robotics:** Computer Networks, Advanced Robotics Simulation in Gazebo
+
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=davidchen20&show_icons=true&theme=tokyonight&hide_border=true" alt="David's GitHub Stats" />
+</p>
+
+---
+
+### 📫 Connect with Me
+
+* 📧 **Email:** [davdyc@umich.edu](mailto:davdyc@umich.edu)
+* 💼 **LinkedIn:** [linkedin.com/in/dychen2523](https://linkedin.com/in/dychen2523)
+* 🐙 **GitHub:** [github.com/davidchen20](https://github.com/davidchen20)
