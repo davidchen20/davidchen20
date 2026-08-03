@@ -31,14 +31,6 @@ Outside of work, I enjoy building projects involving robotics, embedded systems,
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=davidchen20&show_icons=true&theme=tokyonight&hide_border=true" alt="David's GitHub Stats" />
-</p>
-
----
-
 ### 📫 Connect with Me
 
 * 📧 **Email:** [davdyc@umich.edu](mailto:davdyc@umich.edu)
