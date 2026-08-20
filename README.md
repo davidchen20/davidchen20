@@ -14,7 +14,7 @@ Outside of work, I enjoy building projects involving robotics, embedded systems,
 * **Databases & Cloud:** `MySQL`, `Supabase`, `SQLite`
 * **Robotics & Simulation:** `ROS/ROS2`, `WPILib`, `Gymnasium`, `SCANeR Studio`, `SFML`
 * **Machine Learning & Vision:** `PyTorch`, `Keras`, `OpenCV`
-* **Software Development:** `Flask`, `React`, `NextJS`, `REST APIs`, `Git`, `SVN`
+* **Software Development:** `Flask`, `FastAPI`, `React`, `Next.js`, `REST APIs`, `Docker`, `Git`, `SVN`
 
 ---
 
