@@ -34,5 +34,5 @@ Outside of work, I enjoy building projects involving robotics, embedded systems,
 ### 📫 Connect with Me
 
 * 📧 **Email:** [davdyc@umich.edu](mailto:davdyc@umich.edu)
-* 💼 **LinkedIn:** [linkedin.com/in/dychen2523](https://linkedin.com/in/dychen2523)
+* 💼 **LinkedIn:** [linkedin.com/in/dychen2523](https://linkedin.com/in/davidychen2523)
 * 🐙 **GitHub:** [github.com/davidchen20](https://github.com/davidchen20)
